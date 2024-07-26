@@ -1,4 +1,4 @@
-STEP-BY -STEP GUIDE TO USE THE DETECTION MODEL FOR COUNTING CARS, FEMALES AND MALES IN A TRAFFIC AS WELL AS THE COLOR OF THE CARS-
+# STEP-BY -STEP GUIDE TO USE THE DETECTION MODEL FOR COUNTING CARS, FEMALES AND MALES IN A TRAFFIC AS WELL AS THE COLOR OF THE CARS-
 
 clone the repository and unzip 
 store all the files in a single folder 
@@ -13,7 +13,7 @@ Then in the terminal type in "streamlit run cargui.py"
 An interface will open wherein you can upload an image in jpg, jpeg or png format
 It will automatically detect the number of cars, females, males and the color of cars with detecting red as blue and blue as red.
 
-IMPORTANT NOTE
+# IMPORTANT NOTE
 This project uses the MobileNet-SSD architecture compatible with cv2 dnn module for object detection.
 
 - [MobileNet-SSD](https://github.com/chuanqi305/MobileNet-SSD) by chuanqi305 is licensed under the Apache License 2.0.
